@@ -24,7 +24,7 @@ def _create_i64(_name_bin, _path_to_bin, _path_to_py):
 #
 # 
 def main(): 
-    _dst_dir = r'c:\Work\Temp\TEST\1 RomLayoutPei\\'
+    _dst_dir = r'\\lesheek\ResearchLab$\Universal\KOSTYAN_TEST\BIOS\3 FV 2\\'
     _src_dir = os.getcwd() 
 
     _bin_list = ('UI section.bin', 
